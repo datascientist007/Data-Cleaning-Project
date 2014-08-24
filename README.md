@@ -1,5 +1,5 @@
-Introduction:
-=====================
+## Introduction:
+
 This repository contains work for the Coursera course project "Getting and Cleaning data", which forms part of the Data Specialization.
 
 About Original Raw Data:
